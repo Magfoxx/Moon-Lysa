@@ -4,7 +4,7 @@ Bienvenue dans le dépôt principal du projet **Moon Lysa**, une plateforme déd
 
 ---
 
-## 📁 Structure du monorepo
+## 📁 Structure du repo
 
 ```
 moon-lysa/
