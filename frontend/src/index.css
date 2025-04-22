@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+.max-padd-container {
+  @apply mx-auto p-4 sm:p-6 lg:p-8;
+}
+
+.flexCenter {
+  @apply flex flex-col justify-center items-center m-auto;
+}
+
+h1 {
+  @apply text-4xl font-bold text-center;
+}
+
+p {
+  @apply text-lg text-center;
+}
